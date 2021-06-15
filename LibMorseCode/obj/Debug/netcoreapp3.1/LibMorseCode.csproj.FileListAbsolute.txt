@@ -1,0 +1,18 @@
+C:\Users\dotan\Desktop\C#\Код морзе\LibMorseCode\bin\Debug\netcoreapp3.1\LibMorseCode.deps.json
+C:\Users\dotan\Desktop\C#\Код морзе\LibMorseCode\bin\Debug\netcoreapp3.1\LibMorseCode.dll
+C:\Users\dotan\Desktop\C#\Код морзе\LibMorseCode\bin\Debug\netcoreapp3.1\LibMorseCode.pdb
+C:\Users\dotan\Desktop\C#\Код морзе\LibMorseCode\obj\Debug\netcoreapp3.1\LibMorseCode.csproj.AssemblyReference.cache
+C:\Users\dotan\Desktop\C#\Код морзе\LibMorseCode\obj\Debug\netcoreapp3.1\LibMorseCode.AssemblyInfoInputs.cache
+C:\Users\dotan\Desktop\C#\Код морзе\LibMorseCode\obj\Debug\netcoreapp3.1\LibMorseCode.AssemblyInfo.cs
+C:\Users\dotan\Desktop\C#\Код морзе\LibMorseCode\obj\Debug\netcoreapp3.1\LibMorseCode.csproj.CoreCompileInputs.cache
+C:\Users\dotan\Desktop\C#\Код морзе\LibMorseCode\obj\Debug\netcoreapp3.1\LibMorseCode.dll
+C:\Users\dotan\Desktop\C#\Код морзе\LibMorseCode\obj\Debug\netcoreapp3.1\LibMorseCode.pdb
+C:\Users\dotan\Desktop\C#\CM\LibMorseCode\bin\Debug\netcoreapp3.1\LibMorseCode.deps.json
+C:\Users\dotan\Desktop\C#\CM\LibMorseCode\bin\Debug\netcoreapp3.1\LibMorseCode.dll
+C:\Users\dotan\Desktop\C#\CM\LibMorseCode\bin\Debug\netcoreapp3.1\LibMorseCode.pdb
+C:\Users\dotan\Desktop\C#\CM\LibMorseCode\obj\Debug\netcoreapp3.1\LibMorseCode.csproj.AssemblyReference.cache
+C:\Users\dotan\Desktop\C#\CM\LibMorseCode\obj\Debug\netcoreapp3.1\LibMorseCode.AssemblyInfoInputs.cache
+C:\Users\dotan\Desktop\C#\CM\LibMorseCode\obj\Debug\netcoreapp3.1\LibMorseCode.AssemblyInfo.cs
+C:\Users\dotan\Desktop\C#\CM\LibMorseCode\obj\Debug\netcoreapp3.1\LibMorseCode.csproj.CoreCompileInputs.cache
+C:\Users\dotan\Desktop\C#\CM\LibMorseCode\obj\Debug\netcoreapp3.1\LibMorseCode.dll
+C:\Users\dotan\Desktop\C#\CM\LibMorseCode\obj\Debug\netcoreapp3.1\LibMorseCode.pdb
